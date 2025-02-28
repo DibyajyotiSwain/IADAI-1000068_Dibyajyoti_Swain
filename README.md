@@ -65,7 +65,8 @@ The dataset includes the following key metrics:
 - **Valuable Content Resonates:** Saves are high, indicating users find value in the content and want to revisit it.  
 - **Balanced Hashtag Strategy:** A mix of popular, niche, and branded hashtags enhances visibility and engagement.  
 
----
+Tableau Dashboard link: https://public.tableau.com/app/profile/dibyajyoti.swain/viz/DibyajyotiSA/InstagramInsightsDashboard?publish=yes 
+Storyboard link: https://public.tableau.com/app/profile/dibyajyoti.swain/viz/DibyajyotiSAStoryboard/Story1?publish=yes 
 
 ## 📌 Conclusion  
 This analysis provides GramGaze with actionable insights to optimize their Instagram marketing strategy. By leveraging the findings, GramGaze can:  
